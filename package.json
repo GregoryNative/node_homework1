@@ -1,0 +1,16 @@
+{
+  "name": "node_homework1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GregoryNative/node_homework1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GregoryNative/node_homework1/issues"
+  },
+  "homepage": "https://github.com/GregoryNative/node_homework1#readme"
+}
